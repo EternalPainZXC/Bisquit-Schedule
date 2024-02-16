@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UE59ZPynhCrhi98MYpjZaVJTahv3wFeM9ZD7/54FXchfjyq84qSiZHlFwawo3hL2QTLsYOC4NvRRiFFnjFWNww==",
+  "dgSpecHash": "K9N6TYFieMUWNcQfd3mErWcY141tEiljgRncNHJgSCQQvewlka6MJ9FEhWbIAeekWKV0s1b8d1jHNRlEJuM3Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\root\\Desktop\\с# and pytnon is trash\\C#\\source1\\Бисквит Расписание\\Бисквит Расписание.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\root\\Documents\\GitHub\\Bisquit-Schedule\\Бисквит Расписание\\Бисквит Расписание.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\openxmlsdk-mot\\2.7.1\\openxmlsdk-mot.2.7.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

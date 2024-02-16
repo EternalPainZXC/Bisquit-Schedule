@@ -112,7 +112,7 @@
             Controls.Add(richTextBox1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Form3";
-            Opacity = 0.8D;
+            Opacity = 1.0D;
             Text = "Form3";
             TopMost = true;
             TransparencyKey = SystemColors.AppWorkspace;

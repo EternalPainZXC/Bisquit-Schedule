@@ -1,0 +1,3 @@
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\RELEASE\Бисквит Расписание.pdb
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\RELEASE\Бисквит Расписание.dll.config
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\RELEASE\Бисквит Расписание.exe

@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "tmI2pNZN3F6dJoKfzhlLrlaLqthjn/j30MMWkhhxPsQudicKRRnAvlvdqvnatHAOJiGlHTBik/C49iYdnWkMHQ==",
+  "dgSpecHash": "oK3Z8nB9KKlYaCNq/BJrN2pmA/wOYuNqX46Zokftm4gnEU2DRjO7IU1ZmRhhxiumCqQ6YSJ92sz8f3qWn3r3NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\root\\Desktop\\с# and pytnon is trash\\C#\\source1\\Бисквит Расписание\\Бисквит Расписание.csproj",
+  "projectFilePath": "C:\\Users\\root\\Documents\\GitHub\\Bisquit-Schedule\\Бисквит Расписание\\Бисквит Расписание.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\root\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+    "C:\\Users\\root\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\openxmlsdk-mot\\2.7.1\\openxmlsdk-mot.2.7.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

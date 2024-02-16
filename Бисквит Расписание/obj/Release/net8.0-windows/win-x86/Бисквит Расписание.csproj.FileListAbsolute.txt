@@ -21,3 +21,35 @@ C:\Users\root\Desktop\с# and pytnon is trash\C#\source1\Бисквит Расп
 C:\Users\root\Desktop\с# and pytnon is trash\C#\source1\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\ref\Бисквит Расписание.dll
 C:\Users\root\Desktop\с# and pytnon is trash\C#\source1\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form2.resources
 C:\Users\root\Desktop\с# and pytnon is trash\C#\source1\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form3.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.exe
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.dll.config
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.deps.json
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.runtimeconfig.json
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\Бисквит Расписание.pdb
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\ru-RU\Бисквит Расписание.resources.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\DocumentFormat.OpenXml.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\DocumentFormat.OpenXml.Framework.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\bin\Release\net8.0-windows\win-x86\System.IO.Packaging.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.csproj.AssemblyReference.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.csproj.ResolveComReference.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form1.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form2.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form3.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form4.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Properties.Resources.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит_Расписание.Form1.ru-RU.resources
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.csproj.GenerateResource.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.AssemblyInfoInputs.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.AssemblyInfo.cs
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.csproj.CoreCompileInputs.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.sourcelink.json
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\ru-RU\Бисквит Расписание.resources.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.csproj.CopyComplete
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\refint\Бисквит Расписание.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.pdb
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\Бисквит Расписание.genruntimeconfig.cache
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\obj\Release\net8.0-windows\win-x86\ref\Бисквит Расписание.dll

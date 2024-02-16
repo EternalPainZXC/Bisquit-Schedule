@@ -45,6 +45,7 @@
             toolStripMenuItem5 = new ToolStripMenuItem();
             всегдаСверToolStripMenuItem = new ToolStripMenuItem();
             змейкаToolStripMenuItem = new ToolStripMenuItem();
+            DOCtoolStripMenuItem = new ToolStripMenuItem();
             panel3 = new Panel();
             button7 = new Button();
             richTextBox3 = new RichTextBox();
@@ -53,7 +54,6 @@
             richTextBox2 = new RichTextBox();
             button1 = new Button();
             monthCalendar1 = new MonthCalendar();
-            button3 = new Button();
             richTextBox1 = new RichTextBox();
             dog_hide_label1 = new Label();
             Dog_OnTop = new Panel();
@@ -77,7 +77,6 @@
             panel1.Controls.Add(panel2);
             panel1.Controls.Add(button1);
             panel1.Controls.Add(monthCalendar1);
-            panel1.Controls.Add(button3);
             panel1.Controls.Add(richTextBox1);
             panel1.Font = new Font("Segoe UI", 18F);
             panel1.Location = new Point(0, 75);
@@ -88,13 +87,16 @@
             // 
             // button4
             // 
-            button4.BackColor = Color.Red;
+            button4.BackColor = Color.LightPink;
             button4.BackgroundImageLayout = ImageLayout.Stretch;
-            button4.Location = new Point(0, 474);
+            button4.Font = new Font("Segoe UI", 15F);
+            button4.Location = new Point(328, 0);
             button4.Name = "button4";
-            button4.Size = new Size(129, 51);
+            button4.Size = new Size(72, 34);
             button4.TabIndex = 10;
             button4.Tag = "telegram";
+            button4.Text = "X";
+            button4.TextAlign = ContentAlignment.TopCenter;
             button4.UseVisualStyleBackColor = false;
             button4.Click += button4_Click;
             // 
@@ -167,7 +169,7 @@
             // 
             // дополнительноToolStripMenuItem
             // 
-            дополнительноToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem3, toolStripMenuItem4, toolStripMenuItem5, всегдаСверToolStripMenuItem, змейкаToolStripMenuItem });
+            дополнительноToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem3, toolStripMenuItem4, toolStripMenuItem5, всегдаСверToolStripMenuItem, змейкаToolStripMenuItem, DOCtoolStripMenuItem });
             дополнительноToolStripMenuItem.Name = "дополнительноToolStripMenuItem";
             дополнительноToolStripMenuItem.ShowShortcutKeys = false;
             дополнительноToolStripMenuItem.Size = new Size(107, 20);
@@ -209,6 +211,13 @@
             змейкаToolStripMenuItem.Size = new Size(164, 22);
             змейкаToolStripMenuItem.Text = "Змейка";
             змейкаToolStripMenuItem.Click += змейкаToolStripMenuItem_Click;
+            // 
+            // DOCtoolStripMenuItem
+            // 
+            DOCtoolStripMenuItem.Name = "DOCtoolStripMenuItem";
+            DOCtoolStripMenuItem.Size = new Size(164, 22);
+            DOCtoolStripMenuItem.Text = "ZXC?";
+            DOCtoolStripMenuItem.Click += DOCtoolStripMenuItem_Click;
             // 
             // panel3
             // 
@@ -292,20 +301,6 @@
             monthCalendar1.TabIndex = 1;
             monthCalendar1.Visible = false;
             monthCalendar1.DateSelected += monthCalendar1_DateSelected;
-            // 
-            // button3
-            // 
-            button3.Anchor = AnchorStyles.None;
-            button3.BackColor = Color.LightPink;
-            button3.Font = new Font("Segoe UI", 14F);
-            button3.Location = new Point(328, 2);
-            button3.Name = "button3";
-            button3.Size = new Size(68, 32);
-            button3.TabIndex = 3;
-            button3.Text = "X";
-            button3.TextAlign = ContentAlignment.TopCenter;
-            button3.UseVisualStyleBackColor = false;
-            button3.Click += button3_Click;
             // 
             // richTextBox1
             // 
@@ -396,7 +391,6 @@
         private ToolStripMenuItem неделя2ToolStripMenuItem;
         private ToolStripMenuItem календарьToolStripMenuItem;
         private RichTextBox richTextBox1;
-        private Button button3;
         private Button button1;
         private Button button2;
         private Panel Dog_OnTop;
@@ -413,5 +407,6 @@
         private Button button4;
         private ContextMenuStrip contextMenuStrip1;
         private ToolStripMenuItem тихоToolStripMenuItem;
+        private ToolStripMenuItem DOCtoolStripMenuItem;
     }
 }

@@ -19,7 +19,6 @@ using System.Threading.Tasks;
 
 
 
-
 namespace Бисквит_Расписание
 {
 
@@ -62,7 +61,17 @@ namespace Бисквит_Расписание
 
 
 
-      
+
+
+
+
+
+
+
+
+
+
+
 
 
             // Сон
@@ -189,7 +198,7 @@ namespace Бисквит_Расписание
                     dog_hide_text_panel1.Visible = true;
                     dog_hide_label1.Visible = true;
                     dog_hide_label1.Text = dog_hide_label1.Text;
-                    if(ClientSize.Height == 75)
+                    if (ClientSize.Height == 75)
                     {
                         ClientSize = new Size(default_main.Width + dog_hide_label1.Width, 75);
                     }
@@ -197,7 +206,7 @@ namespace Бисквит_Расписание
                     {
                         ClientSize = new Size(default_main.Width + dog_hide_label1.Width, default_main.Height);
                     }
-                    
+
 
 
 
@@ -889,7 +898,7 @@ namespace Бисквит_Расписание
 
             if (toolStripMenuItem3.CheckState == CheckState.Unchecked)
             {
-                
+
                 SetAutorunValue(true);
                 toolStripMenuItem3.CheckState = CheckState.Checked;
 
@@ -1008,7 +1017,7 @@ namespace Бисквит_Расписание
 
         private void dog_hide_label1_TextChanged(object sender, EventArgs e)
         {
-            
+
             Point dog_hide_label1_Def = new Point(80, 15);
 
             dog_hide_label1.Location = dog_hide_label1_Def;
@@ -1289,7 +1298,7 @@ namespace Бисквит_Расписание
         private void Form1_Shown(object sender, EventArgs e)
         {
 
-           
+
             if (ClientSize.Height == 75)
             {
                 this.ClientSize = default_main;
@@ -1313,7 +1322,16 @@ namespace Бисквит_Расписание
 
         }
 
+        private void DOCtoolStripMenuItem_Click(object sender, EventArgs e)
+        {
 
+            Form4 NewForm4 = new Form4();
+            NewForm4.Show();
+
+
+
+
+        }
     }
 
 
