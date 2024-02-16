@@ -128,6 +128,7 @@ namespace Бисквит_Расписание
 
         private void button2_Click(object sender, EventArgs e)
         {
+
             Object filename = openFileDialog1.FileName;
 
             Microsoft.Office.Interop.Word.Application word = new Microsoft.Office.Interop.Word.Application();
@@ -139,7 +140,7 @@ namespace Бисквит_Расписание
                 ref nullobj, ref nullobj, ref nullobj, ref nullobj);
             word.Visible = false;
             Microsoft.Office.Interop.Word.Range wordrange = doc.Range(ref nullobj, ref nullobj);
-            File.WriteAllText(@"D:\text_of_Word.txt", wordrange.Text);
+            File.WriteAllText(@"С:\text_of_Word.txt", wordrange.Text);
 
             //Process[] List;
             //List = Process.GetProcessesByName("WINWORD");
@@ -151,7 +152,7 @@ namespace Бисквит_Расписание
             word = null;
 
 
-            WordprocessingDocument wordDoc = WordprocessingDocument.Open(@"D:\Документ Microsoft Office Word.docx", true);
+            WordprocessingDocument wordDoc = WordprocessingDocument.Open(@"С:\Документ Microsoft Office Word.docx", true);
             MainDocumentPart body = wordDoc.MainDocumentPart;
 
             var qwe = body.WordCommentsExtensiblePart;
