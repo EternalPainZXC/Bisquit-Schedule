@@ -1,0 +1,3 @@
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.pdb
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.dll.config
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.exe
