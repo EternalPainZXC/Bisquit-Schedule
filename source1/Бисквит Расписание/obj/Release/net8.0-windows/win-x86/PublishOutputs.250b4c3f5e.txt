@@ -1,0 +1,8 @@
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\Бисквит Расписание.pdb
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\Бисквит Расписание.dll.config
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\D3DCompiler_47_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\PenImc_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\PresentationNative_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\vcruntime140_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\wpfgfx_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\Новая папка\Бисквит Расписание.exe

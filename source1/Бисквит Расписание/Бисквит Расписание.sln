@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Бисквит Расписание", "Бисквит Расписание.csproj", "{52A0D539-8330-4378-9BA5-D5C6613867E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4CEFB9B-3F4A-4903-AFA5-1F72515E5C4B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A0D539-8330-4378-9BA5-D5C6613867E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A0D539-8330-4378-9BA5-D5C6613867E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A0D539-8330-4378-9BA5-D5C6613867E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A0D539-8330-4378-9BA5-D5C6613867E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C159B12-6F7F-4144-8A5A-22850A6C7776}
+	EndGlobalSection
+EndGlobal

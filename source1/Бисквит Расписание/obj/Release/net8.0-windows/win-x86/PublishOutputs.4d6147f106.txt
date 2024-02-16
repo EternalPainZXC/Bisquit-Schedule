@@ -1,0 +1,8 @@
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\Бисквит Расписание.pdb
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\Бисквит Расписание.dll.config
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\D3DCompiler_47_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\PenImc_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\PresentationNative_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\vcruntime140_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\wpfgfx_cor3.dll
+C:\Users\root\Desktop\с# and pytnon is trash\programms\13 dog can talk\Бисквит Расписание.exe

@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Бисквит Расписание/1.0.0": {
+        "runtime": {
+          "Бисквит Расписание.dll": {}
+        },
+        "resources": {
+          "ru-RU/Бисквит Расписание.resources.dll": {
+            "locale": "ru-RU"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Бисквит Расписание/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

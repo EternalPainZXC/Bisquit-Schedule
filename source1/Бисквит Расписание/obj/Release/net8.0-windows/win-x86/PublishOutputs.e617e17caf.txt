@@ -1,0 +1,8 @@
+C:\Users\root\Desktop\pROGRAMS release\Бисквит Расписание.pdb
+C:\Users\root\Desktop\pROGRAMS release\Бисквит Расписание.dll.config
+C:\Users\root\Desktop\pROGRAMS release\D3DCompiler_47_cor3.dll
+C:\Users\root\Desktop\pROGRAMS release\PenImc_cor3.dll
+C:\Users\root\Desktop\pROGRAMS release\PresentationNative_cor3.dll
+C:\Users\root\Desktop\pROGRAMS release\vcruntime140_cor3.dll
+C:\Users\root\Desktop\pROGRAMS release\wpfgfx_cor3.dll
+C:\Users\root\Desktop\pROGRAMS release\Бисквит Расписание.exe
