@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Бисквит Расписание - программа для помощи в фокусировки внимания пользователя и п" +
     "ланировке задач.\r\n")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860c7e16ce55b77e465c7ba3a13d6b70aa3bfb9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6bbc07a68cbaff3ca1eebed868deeb7f83307ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Бисквит Расписание")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Бисквит Расписание")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1")]

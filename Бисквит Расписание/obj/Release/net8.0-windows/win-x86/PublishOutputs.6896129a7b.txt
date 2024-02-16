@@ -1,3 +1,8 @@
 C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.pdb
 C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.dll.config
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\D3DCompiler_47_cor3.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\PenImc_cor3.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\PresentationNative_cor3.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\vcruntime140_cor3.dll
+C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\wpfgfx_cor3.dll
 C:\Users\root\Documents\GitHub\Bisquit-Schedule\Бисквит Расписание\EXEREL\Бисквит Расписание.exe
